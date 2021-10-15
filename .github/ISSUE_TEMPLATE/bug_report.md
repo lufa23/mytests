@@ -1,22 +1,17 @@
----
-name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
+# BUG REPORT
 
----
+## TITLE
 
 ### Issue Description
 Detailed description on what happened
 
 ### Is it possible for the team to reproduce the issue? If yes, how?
-For example,
+*For example,
 Steps to reproduce the behavior:
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
-4. See error
+4. See error*
 
 
 ### What action was user trying to perform?
