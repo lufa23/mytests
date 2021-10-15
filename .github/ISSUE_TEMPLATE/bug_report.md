@@ -23,6 +23,7 @@ Steps to reproduce the behavior:
 Action performed (swap, import, export, other)
 
 **Are there specific tokens on which this issue was noticed?**
+Write affected tokens
 
 **Which Browser has been used?**
 Google Chrome is the advised browser
@@ -31,6 +32,7 @@ Google Chrome is the advised browser
 Open the [google chrome developer tools](https://balsamiq.com/support/faqs/browserconsole/#google-chrome), look into the console tab, and share the error message shown in red in the console
 
 **Is a VPN being used?**
+If yes, let user try again without VPN
 
 **Are there screenshots of the error log?**
 Add screenshots to help explain your problem.
@@ -39,6 +41,7 @@ Add screenshots to help explain your problem.
 Paste here error logs
 
 **Did user try to clear the cache and refreshed the page?**
+If not, let user clear the cache and try again
 
 **What are the tx hashes?** 
 Provide every transaction hash that can be helpful to solve the case
