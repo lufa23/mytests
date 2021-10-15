@@ -25,7 +25,7 @@ Action performed (swap, import, export, other)
 ### Are there specific tokens on which this issue was noticed?
 Write affected tokens
 
-### Which Browser has been used?**
+### Which Browser has been used?
 Google Chrome is the advised browser
 
 ### Can User share relevant logs?
@@ -34,13 +34,13 @@ Open the [google chrome developer tools](https://balsamiq.com/support/faqs/brows
 ### Is a VPN being used?**
 If yes, let user try again without VPN
 
-### Are there screenshots of the error log?**
+### Are there screenshots of the error log?
 Add screenshots to help explain your problem.
 
-### Can error logs text be pasted here?**
+### Can error logs text be pasted here?
 Paste here error logs
 
-### Did user try to clear the cache and refreshed the page?**
+### Did user try to clear the cache and refreshed the page?
 If not, let user clear the cache and try again
 
 ### What are the tx hashes?** 
