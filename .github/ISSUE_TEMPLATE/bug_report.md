@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-## Issue Description
+### Issue Description
 Detailed description on what happened
 
 **Is it possible for the team to reproduce the issue? If yes, how?**
