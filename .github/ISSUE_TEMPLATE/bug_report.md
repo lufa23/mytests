@@ -27,7 +27,7 @@ Google Chrome is the advised browser
 Open the [google chrome developer tools](https://balsamiq.com/support/faqs/browserconsole/#google-chrome), look into the console tab, and share the error message shown in red in the console
 
 ### Is a VPN being used?**
-* If yes, let user try again without VPN
+If yes, let user try again without VPN
 
 ### Are there screenshots of the error log?
 Add screenshots to help explain your problem.
