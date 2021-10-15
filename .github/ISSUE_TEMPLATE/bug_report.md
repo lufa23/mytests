@@ -6,7 +6,7 @@
 Detailed description on what happened
 
 ### Is it possible for the team to reproduce the issue? If yes, how?
-*For example,
+* For example, *
 *Steps to reproduce the behavior:
 *1. Go to '...'
 *2. Click on '....'
