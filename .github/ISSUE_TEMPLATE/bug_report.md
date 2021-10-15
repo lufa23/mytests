@@ -8,19 +8,9 @@ assignees: ''
 ---
 
 **Issue Description**
-What action did you try to perform?
-Action performed (swap, import, export, other)
+Detailed description on what happened
 
-Are there specific tokens on which you noticed this issue?
-Can you describe in detail what happened?
-
-Which Browser are you using?
-
-Can you open the google chrome developer tools, look into the console tab, and share the error message shown in red in the console?
-
-Are you using a VPN?
-
-Is it possible for the team to reproduce the issue? If yes, how?
+**Is it possible for the team to reproduce the issue? If yes, how?**
 For example,
 Steps to reproduce the behavior:
 1. Go to '...'
@@ -28,28 +18,37 @@ Steps to reproduce the behavior:
 3. Scroll down to '....'
 4. See error
 
-**Can you send screenshots of the error log? You can also copy-paste the text**
+
+**What action was user trying to perform?**
+Action performed (swap, import, export, other)
+
+**Are there specific tokens on which this issue was noticed?**
+
+**Which Browser has been used?**
+Google Chrome is the advised browser
+
+**Can User share relevant logs?**
+Open the [google chrome developer tools](https://balsamiq.com/support/faqs/browserconsole/#google-chrome), look into the console tab, and share the error message shown in red in the console
+
+**Is a VPN being used?**
+
+**Are there screenshots of the error log?**
 Add screenshots to help explain your problem.
 
-Did you clean the cache and refreshed the page?
+**Can error logs text be pasted here?**
+Paste here error logs
 
-Can you provide the tx hash? Provide every transaction hash that can be helpful to solve your case (for example IBC and Ethereum transactions)
+**Did user try to clear the cache and refreshed the page?**
 
-Can you provide your address? If it's an import / export issue, then can you provide both every useful address? (e.g. sif, eth, cosmos..)
+**What are the tx hashes?** 
+Provide every transaction hash that can be helpful to solve the case
+For example, if it's an import tx, provide bothSif tx and Ethereum transactions
 
-Did you make sure that you paid enough gas fees (for example properly setting ETH gas fees)?
+**What are the relevant user address?** 
+If it's an import / export issue, then provide both every useful address? (e.g. sif, eth, cosmos..)
 
-
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
-
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+**Is user aware on how to properly set ETH gas?**
+For example by [properly setting ETH gas fees](https://metamask.zendesk.com/hc/en-us/articles/4404600179227-User-Guide-Gas)
 
 **Additional context**
 Add any other context about the problem here.
