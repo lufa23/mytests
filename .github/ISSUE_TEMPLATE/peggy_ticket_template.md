@@ -1,4 +1,4 @@
-**IMPORT/EXPORT issue **
+# IMPORT/EXPORT issue 
 
 Hey, please write a detailed description of the issue to let us help you better :)
 
@@ -8,5 +8,5 @@ Make sure to include:
 3) Links to Addresses (both of Sifchain and external chain)
 4) Error logs
 
-Providing as much detail as possible will help engineers to solve the case faster..
+**Providing as much detail as possible will help engineers to solve the case faster..**
 Thanks!
